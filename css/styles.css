@@ -153,9 +153,6 @@ select:-webkit-autofill:focus {
 }
 
 /* SOCIALS */
-.nav-socials {
-}
-
 .nav-socials-list {
   display: flex;
   align-items: center;
