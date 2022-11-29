@@ -201,6 +201,7 @@ select:-webkit-autofill:focus {
   padding: 15px 25px;
   border: 1px solid #6670ee;
   border-radius: 12px;
+  box-shadow: 0px 12px 19px rgba(93, 110, 171, 0.12);;
   background-color: #fff;
   color: #6670ee;
   transition: color 0.4s ease;
