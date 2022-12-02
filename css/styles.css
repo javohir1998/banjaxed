@@ -21,7 +21,7 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
-  font-family: "Hepto Slob", serif;
+  font-family: "Hepta Slab", serif;
   font-size: 16px;
   line-height: 1.5;
   background-color: #fff;
@@ -91,6 +91,7 @@ select:-webkit-autofill:focus {
   align-items: center;
   padding-top: 22px;
   padding-bottom: 22px;
+  border-bottom: 1px solid #d1d2e7;
 }
 
 
@@ -121,7 +122,7 @@ select:-webkit-autofill:focus {
 .sitenav-list {
   display: flex;
   align-items: center;
-  font-family: "Hepto Slob", serif;
+  font-family: "Hepta Slab", serif;
   font-weight: 300;
   font-size: 16px;
   text-align: center;
@@ -189,7 +190,7 @@ select:-webkit-autofill:focus {
   display: inline-block;
   align-items: center;
   text-align: center;
-  font-family: "Hepto slob", serif;
+  font-family: "Hepta Slab", serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 1.5;
@@ -217,4 +218,42 @@ select:-webkit-autofill:focus {
 /* MAIN-CONTENT */
 .main-content {
   flex-grow: 1;
+}
+
+
+/* HERO */
+.hero {
+}
+
+.hero-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero-content {
+  margin-right: 330px;
+
+}
+
+.hero-heading {
+  font-family: "Hepta Slab" serif;
+  font-weight: 300;
+  font-size: 64px;
+  line-height: 72px;
+  letter-spacing: -0.02em;
+  color: #1a1a29;
+}
+
+.hero-text {
+}
+
+.hero-link {
+}
+
+.icon-btn {
+
+}
+
+.hero-img {
 }
